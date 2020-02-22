@@ -11,7 +11,7 @@ close all;
 
 %% INPUT DATA
 
-F = 750; %N
+F = 7500; %N
 E = 70e9;
 A = 72e-6;
 rho = 2200;
