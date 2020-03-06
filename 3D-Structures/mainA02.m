@@ -33,7 +33,7 @@ Weight = M*g; %N
 
 %%%%%%%%%%%%%%%%%%%%%%     D1 SELECTOR (FOR BUCKLING)    %%%%%%%%%%%%%%%
 
-        %D1 = 21e-3;
+        D1 = 21e-3;
         %D1 = 22e-3;
 
 %Change D1 to 22e-3 to prevent buckling when computing the structure with
